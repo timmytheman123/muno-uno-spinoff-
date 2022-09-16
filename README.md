@@ -1,6 +1,7 @@
 # muno-uno-spinoff
 
 # General Rules
+- start the game counter clockwise dealer starts
 - play 2 +2 at once to make it a +8 or 2 +4 to make it a +16
 - jump ins mean you can skip turn order and play your card if the card on top matches your card (card any type of card except wild)
 - stacks mean you can play 2 of the axact same cards at the same time
@@ -12,12 +13,12 @@
 - 0 = swap hands with whoever you want
 - 1 = you have to yell SUSSY AMONGUS! every time you play it
 - 2 = 
-- 3 = if you play 2 3's it counts as an 8
-- 4 =
+- 3 = if you play 2 3's of any color it counts as an 8 of any color
+- 4 = look at someones hand for 5 seconds 
 - 5 =
 - 6 =
 - 7 = rotate hands in the opposite direction of play 
-- 8 =
+- 8 = can be played as 2 3's of the same color as the 8
 - 9 if you jump in on a 9 discard or draw cards until you have 9 cards left
 - skip = can be used to cancel +2 +4 etc
 - reverse = reverses drawing to whoeve last played the +
