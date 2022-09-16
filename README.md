@@ -1,5 +1,6 @@
 # muno-uno-spinoff
 
+
 # General Rules
 - start the game counter clockwise dealer starts
 - play 2 +2 at once to make it a +8 or 2 +4 to make it a +16
@@ -15,7 +16,7 @@
 - 2 = 
 - 3 = if you play 2 3's of any color it counts as an 8 of any color
 - 4 = look at someones hand for 5 seconds 
-- 5 =
+- 5 = whenever you play a 5 toggle all custom rules (except this one)
 - 6 =
 - 7 = rotate hands in the opposite direction of play 
 - 8 = can be played as 2 3's of the same color as the 8
