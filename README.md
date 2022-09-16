@@ -29,6 +29,10 @@
 - blank cards = function as wild
 - custom cards = follor instructions and draw 3 on whoever played it
 
+
+# Color Rules
+
+
 # winner
 - try to have the least amount of cards at the end or run out first
 - if you win you don't have to pay for dinner
