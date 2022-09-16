@@ -9,7 +9,6 @@
 - all cards function as normal plus these rules
 - if you have less then 5 cards you have to say the spanish word for them every play if you dont then you have to go up to 5 cards (this replaces uno rule) nobody can call you out but it has to be done before next person goes
 
-
 # Card Rules
 - 0 = swap hands with whoever you want
 - 1 = you have to yell SUSSY AMONGUS! every time you play it
@@ -31,6 +30,10 @@
 
 
 # Color Rules
+- blue = you can shoose to be skipped the next turn (wont be affected by anything)
+- yellow = 
+- green = 
+- red = 
 
 
 # winner
