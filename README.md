@@ -13,11 +13,11 @@
 # Card Rules
 - 0 = swap hands with whoever you want
 - 1 = you have to yell SUSSY AMONGUS! every time you play it
-- 2 = 
+- 2 = if you play a 2 draw 2 cards then discard 2 cards
 - 3 = if you play 2 3's of any color it counts as an 8 of any color
 - 4 = look at someones hand for 5 seconds 
 - 5 = whenever you play a 5 toggle all custom rules (except this one)
-- 6 =
+- 6 = make anyone draw +1 card (cannot be blocked or skipped)
 - 7 = rotate hands in the opposite direction of play 
 - 8 = can be played as 2 3's of the same color as the 8
 - 9 if you jump in on a 9 discard or draw cards until you have 9 cards left
