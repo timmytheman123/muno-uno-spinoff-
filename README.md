@@ -32,7 +32,7 @@
 # Color Rules
 - blue = you can shoose to be skipped the next turn (wont be affected by anything)
 - yellow = 
-- green = Touch grass
+- green = 
 - red = if you can prove you are subscribed to vernon plays youtube the card you played gets turned into a +10 once per game
 
 
