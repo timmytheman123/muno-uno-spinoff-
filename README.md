@@ -31,8 +31,8 @@
 
 # Color Rules
 - blue = you can shoose to be skipped the next turn (wont be affected by anything)
-- yellow = 
-- green = 
+- yellow = not made
+- green = not made
 - red = if you can prove you are subscribed to vernon plays youtube the card you played gets turned into a +10 once per game
 
 
