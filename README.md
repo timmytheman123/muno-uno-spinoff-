@@ -32,7 +32,7 @@
 # Color Rules
 - blue = you can shoose to be skipped the next turn (wont be affected by anything)
 - yellow = you have an option to replace your hand with a new random hand
-- green = not made
+- green = you now have to shuffle your hand so you don't know the card order
 - red = if you can prove you are subscribed to vernon plays youtube the card you played gets turned into a +10 once per game
 
 
