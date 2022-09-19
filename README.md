@@ -1,5 +1,6 @@
 # muno-uno-spinoff
 
+before game starts have a very democratic vote to see if you want to play disruptive rules
 
 # General Rules
 - start the game counter clockwise dealer starts
@@ -11,7 +12,7 @@
 
 # Card Rules
 - 0 = swap hands with whoever you want
-- 1 = you have to yell SUSSY AMONGUS! every time you play it
+- 1 = you have to yell SUSSY AMONGUS! every time you play it (disruptive)
 - 2 = if you play a 2 draw 2 cards then discard 2 cards
 - 3 = if you play 2 3's of any color it counts as an 8 of any color
 - 4 = look at someones hand for 5 seconds 
@@ -32,8 +33,8 @@
 # Color Rules
 - blue = you can shoose to be skipped the next turn (wont be affected by anything)
 - yellow = you have an option to replace your hand with a new random hand
-- green = you now have to shuffle your hand so you don't know the card order
-- red = if you can prove you are subscribed to vernon plays youtube the card you played gets turned into a +10 once per game
+- green = you now have to shuffle your hand so you don't know the card order (disruptive)
+- red = if you can prove you are subscribed to vernon plays youtube the card you played gets turned into a +10 once per game (disruptive)
 
 
 # winner
